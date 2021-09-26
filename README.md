@@ -68,7 +68,7 @@
 | ActiveMQ | activeMQ |  | 
 | Netty | netty |  |
 | gRPC | grpc |  |
-| Ngnix | ngnix、NGINX |  |
+| Nginx | nginx、NGINX |  |
 | Dubbo | dubbo |  |
 | JSON | Json | JavaScript Object Notation |
 | JWT | jwt | JSON Web Token |
