@@ -93,6 +93,7 @@
 | DOM | dom | Document Object Model |
 | JavaScript | javascript、Javascript、js、JS |
 | CSS | Css、css | Cascading Style Sheets |
+| Sass | sass | grade CSS extension language |
 | HTML | Html、html | Hyper Text Markup Language |
 | jQuery | jquery、JQuery |   |
 | Bootstrap | bootstrap |   |
@@ -102,6 +103,15 @@
 | Angular | angular |    |
 | SPA | spa | Single Page Application |  |
 | MPA | mpa | Mutiple Page Application |   |
+| TypeScript | typescript |  a “flavor” or “variant” of JavaScript |
+| Express | express |  |   
+| Koa(koajs) | koa | 基于 Node.js 平台的下一代 web 开发框架 |
+| Lodash | lodash | A modern JavaScript utility library delivering modularity, performance & extras |
+| webpack | Webpack | static module bundler |
+| Vite | vite | build tool |
+| Babel | babel | The compiler for next generation JavaScript |
+| Ant Design | ant design | An enterprise-class UI design language and React UI library  |
+| Element | element | a Vue 2.0 based component library  |
 | 持续更新中... | - | - |
 
 
@@ -155,6 +165,7 @@
 | Eclipse | eclipse |  |
 | MyEclipse | myeclipse |  |
 | Postman | postman |   |
+| Visual Studio Code | vscode |   |
 | 持续更新中... | - | - |
 
 ---
