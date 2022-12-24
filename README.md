@@ -165,7 +165,30 @@
 | MyEclipse | myeclipse |  |
 | Postman | postman |   |
 | Visual Studio Code | vscode |   |
+| Vim | vim | |
+| GCC | gcc、Gcc | GNU Compiler Collection |
+| Makefile/CMake | makefile/cmake | |
 | 持续更新中... | - | - |
+
+# 嵌入式相关
+
+|             规范书写             |    不合适拼写举例    |                             备注                             |
+| :------------------------------: | :------------------: | :----------------------------------------------------------: |
+|        MCU、MPU/SoC、FPGA        |                      |                             分清                             |
+|    ARMv8-A、RISC-V、x86、CISC    |                      |                            指令集                            |
+|       Keil MDK or MDK-ARM        |     mdk、keil 5      |                                                              |
+|               IAR                |         iar          |                                                              |
+|         Altium Designer          |        AD、ad        | PCB设计软件，电路仿真软件还包括 Multisim、Proteus，以及 LTspice 等 |
+|             Candence             |                      |                                                              |
+|               LwIP               |      lwip、LWIP      |                            用官名                            |
+|       FreeRTOS、RT-Thread        |                      |                                                              |
+|       I2C、SPI、UART、CAN        | iic、spi、usart、can |                                                              |
+|      AHB、APB、AXI、Avalon       |                      |                         一些常用总线                         |
+|            PCI-E 5.0             |      pcie、PCIe      |                PCI-E 要带上版本号（1.0~5.x）                 |
+|            USB Type-C            |                      |             USB 要带上速率（5/10/20/40/80Gbps）              |
+|             Ethernet             |                      |               以太网带上速率（10M/100M/1G...）               |
+| SATA、HDMI、MIPI(-CSI/DSI)、LVDS |                      |                                                              |
+|          持续更新中...           |                      |                                                              |
 
 ---
 # PDF离线手册下载
